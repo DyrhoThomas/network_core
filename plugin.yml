@@ -1,0 +1,11 @@
+main: network.Core.Main
+name: network_core
+version: 2.0
+author: dyrhonetwork
+
+commands:
+  ban:
+  unban:
+  nick:
+  lobby:
+  hub:
